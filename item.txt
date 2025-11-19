@@ -1,0 +1,4 @@
+Pen 3 10
+Notebook 2 50
+Pencil 5 5
+Eraser 4 7
